@@ -1,0 +1,11 @@
+{
+  "author": ["Geoffrey Hutchison", "Dhruv J"],
+  "version": 1.0,
+  "url": "https://github.com/openchemistry/avogadro-commands",
+  "name": "avogadro-commands",
+  "description": "script to convert glycans/sugars to smiles",
+  "type": "commands",
+  "commands": [
+    { "name": "glycans_to_smiles", "command": "glycans_to_smiles.py" }
+  ]
+}
